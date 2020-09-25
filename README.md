@@ -71,7 +71,7 @@ Options can be as follows:
 npm i phaser3-plugin-mosaicview
 ```
 
-Alternatively you can grab the latest distributed version directly from github via: [https://raw.githubusercontent.com/dasheck0/phaser3-plugin-mosaicview/master/dist/MosaicViewPlugin.js](https://raw.githubusercontent.com/dasheck0/phaser3-plugin-mosaicview/master/dist/MosaicViewPlugin.js)
+Alternatively you can grab the latest distributed version directly from github via: [https://github.com/dasheck0/phaser3-plugin-mosaicview/blob/develop/dist/MosaicView.js](https://github.com/dasheck0/phaser3-plugin-mosaicview/blob/develop/dist/MosaicView.js)
 
 ## Contributing
 Bug reports and pull requests are welcome on GitHub at [https://github.com/dasheck0/phaser3-plugin-mosaicview/pulls](https://github.com/dasheck0/phaser3-plugin-mosaicview/pulls). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
