@@ -57,7 +57,7 @@ export default class MosaivView extends Phaser.GameObjects.Graphics {
 
                 this.fillRect(
                     x * (this.tileWidth + (this.padding)) + (this.startWithPadding ? this.padding : 0),
-                    y * (this.tileHeight + (this.padding)) + (this.startWithPadding ? this.padding: 0),
+                    y * (this.tileHeight + (this.padding)) + (this.startWithPadding ? this.padding : 0),
                     this.tileWidth,
                     this.tileHeight);
             }
