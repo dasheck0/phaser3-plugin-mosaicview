@@ -1,0 +1,21 @@
+{
+  "name": "phaser3-plugin-mosaicview",
+  "version": "1.0.0",
+  "description": "This is a phaser 3 plugin for a customizable mosaic view",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phaser3",
+    "phaser",
+    "phaserjs",
+    "plugin",
+    "mosaic"
+  ],
+  "peerDependencies": {
+    "phaser": "3.x"
+  },
+  "author": "Stefan Neidig <s.neidig@appcom-interactive.de> (https://appcom-interactive.de)",
+  "license": "MIT"
+}
